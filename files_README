@@ -1,0 +1,2 @@
+QuantumChaos : calculates dynamical evolution of tripartite mutual information, bipartite mutual information and 4-point OTOCS of a given Hamiltonian for different partitions of the system
+Spin_model : Heisenberg chain Hamiltonian generator
